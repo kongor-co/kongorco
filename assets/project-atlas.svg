@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Atlas Notes placeholder app image</title>
+  <desc id="desc">Linked knowledge notes interface.</desc>
+  <rect width="960" height="600" fill="#f7f5ef"/>
+  <rect x="88" y="74" width="784" height="452" rx="22" fill="#15191d"/>
+  <rect x="132" y="116" width="196" height="368" rx="14" fill="#242a2f"/>
+  <rect x="368" y="116" width="370" height="368" rx="14" fill="#fffdf8"/>
+  <circle cx="792" cy="166" r="36" fill="#08a7a5"/>
+  <circle cx="806" cy="286" r="52" fill="#ef6f61"/>
+  <circle cx="768" cy="416" r="44" fill="#60a56f"/>
+  <path d="M790 202 L806 234 M798 338 L778 376" stroke="#fffdf8" stroke-width="8" stroke-linecap="round"/>
+  <rect x="404" y="160" width="210" height="18" rx="9" fill="#15191d"/>
+  <rect x="404" y="216" width="284" height="12" rx="6" fill="#d8d0c2"/>
+  <rect x="404" y="258" width="236" height="12" rx="6" fill="#d8d0c2"/>
+  <rect x="404" y="328" width="284" height="92" rx="12" fill="#ebe6dc"/>
+</svg>

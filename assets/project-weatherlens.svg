@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">WeatherLens placeholder app image</title>
+  <desc id="desc">Weather application map and forecast panels.</desc>
+  <rect width="960" height="600" fill="#15191d"/>
+  <path d="M0 380 C160 288 278 456 430 340 C586 220 720 250 960 146 L960 600 L0 600 Z" fill="#08a7a5"/>
+  <path d="M0 452 C164 402 308 512 476 430 C640 350 770 380 960 300 L960 600 L0 600 Z" fill="#60a56f"/>
+  <rect x="96" y="78" width="300" height="210" rx="22" fill="#fffdf8"/>
+  <circle cx="180" cy="168" r="48" fill="#ef6f61"/>
+  <rect x="252" y="132" width="92" height="16" rx="8" fill="#15191d"/>
+  <rect x="252" y="180" width="116" height="12" rx="6" fill="#d8d0c2"/>
+  <rect x="488" y="96" width="310" height="82" rx="16" fill="#fffdf8" opacity=".92"/>
+  <rect x="530" y="130" width="170" height="14" rx="7" fill="#15191d"/>
+  <rect x="540" y="236" width="220" height="172" rx="20" fill="#fffdf8" opacity=".92"/>
+</svg>
