@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Open Source Lab placeholder app image</title>
+  <desc id="desc">Repository graph and contribution cards.</desc>
+  <rect width="960" height="600" fill="#fffdf8"/>
+  <rect x="76" y="80" width="808" height="440" rx="24" fill="#f7f5ef" stroke="#d8d0c2" stroke-width="3"/>
+  <circle cx="242" cy="204" r="52" fill="#08a7a5"/>
+  <circle cx="436" cy="156" r="38" fill="#ef6f61"/>
+  <circle cx="630" cy="230" r="48" fill="#60a56f"/>
+  <circle cx="724" cy="386" r="58" fill="#15191d"/>
+  <path d="M292 192 L398 166 M474 174 L588 214 M652 272 L704 338" fill="none" stroke="#15191d" stroke-width="10" stroke-linecap="round" opacity=".4"/>
+  <rect x="156" y="344" width="350" height="22" rx="11" fill="#15191d"/>
+  <rect x="156" y="394" width="260" height="16" rx="8" fill="#d8d0c2"/>
+</svg>
