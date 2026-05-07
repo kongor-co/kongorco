@@ -9,9 +9,18 @@ Personal app and software development website for Kongor Co, built as a static s
 - `projects/` detail pages for placeholder app and software projects
 - `about.html` placeholder About, ideas, mission, and vision page
 - `contact.html` placeholder contact/profile links page
-- `assets/` shared CSS, JavaScript, and placeholder project images
+- `assets/` shared CSS, JavaScript, favicon logo, and placeholder project images
 - `CNAME` for the custom domain
 - `.nojekyll` so GitHub Pages serves the static files directly
+
+## Design notes
+
+The current design is a minimal personal developer portfolio with:
+
+- Light and dark modes using the header theme switch
+- The supplied logo at `assets/favicon.png` as the favicon and header mark
+- A typography-led homepage with compact project entries
+- Static HTML/CSS/JavaScript only, so it can be served directly by GitHub Pages
 
 ## Local preview
 
