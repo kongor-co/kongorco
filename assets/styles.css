@@ -42,7 +42,6 @@ body {
   color: var(--ink);
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.55;
-  transition: background 180ms ease, color 180ms ease;
 }
 
 img {
@@ -128,9 +127,12 @@ a {
   border-color: var(--line);
   cursor: pointer;
   display: inline-flex;
+  flex: 0 0 auto;
   gap: 8px;
+  justify-self: end;
   min-height: 38px;
   padding: 9px 11px;
+  width: 92px;
 }
 
 .theme-toggle::before {
@@ -452,12 +454,15 @@ h3 {
 
 @media (max-width: 900px) {
   .nav {
-    grid-template-columns: 1fr auto;
+    grid-template-columns: 1fr;
   }
 
   .nav-links {
-    grid-column: 1 / -1;
     justify-content: flex-start;
+  }
+
+  .theme-toggle {
+    justify-self: start;
   }
 
   .hero,
