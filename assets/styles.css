@@ -55,12 +55,18 @@ a {
 }
 
 .site-header {
-  position: sticky;
+  left: 0;
+  position: fixed;
+  right: 0;
   top: 0;
   z-index: 10;
   border-bottom: 1px solid var(--line);
   background: color-mix(in srgb, var(--bg) 90%, transparent);
   backdrop-filter: blur(18px);
+}
+
+main {
+  padding-top: 79px;
 }
 
 .nav {
@@ -453,6 +459,10 @@ h3 {
 }
 
 @media (max-width: 900px) {
+  main {
+    padding-top: 200px;
+  }
+
   .nav {
     grid-template-columns: 1fr;
   }
