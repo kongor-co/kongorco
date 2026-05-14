@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">TaskFlow placeholder app image</title>
-  <desc id="desc">Abstract mobile productivity screens.</desc>
+  <title id="title">taskFlow placeholder app image</title>
+  <desc id="desc">abstract mobile productivity screens.</desc>
   <rect width="960" height="600" fill="#15191d"/>
   <rect x="84" y="72" width="792" height="456" rx="28" fill="#f7f5ef"/>
   <rect x="150" y="118" width="190" height="360" rx="26" fill="#20262b"/>

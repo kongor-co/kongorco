@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">DevKit placeholder app image</title>
-  <desc id="desc">Developer utilities command palette.</desc>
+  <title id="title">devKit placeholder app image</title>
+  <desc id="desc">developer utilities command palette.</desc>
   <rect width="960" height="600" fill="#20262b"/>
   <rect x="116" y="94" width="728" height="412" rx="22" fill="#15191d" stroke="#3b4248" stroke-width="3"/>
   <rect x="168" y="148" width="624" height="58" rx="14" fill="#fffdf8"/>

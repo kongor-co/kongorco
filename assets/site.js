@@ -12,7 +12,7 @@ document.querySelectorAll("[data-site-header]").forEach((container) => {
   const base = container.dataset.base || "";
   container.innerHTML = `
     <header class="site-header">
-      <nav class="nav" aria-label="Primary navigation">
+      <nav class="nav" aria-label="primary navigation">
         <a class="brand" href="${base}index.html"><img class="brand-logo" src="${base}assets/favicon.png" alt=""><span>kongor</span></a>
         <div class="nav-links">
           <a href="${base}index.html" data-nav>home</a>

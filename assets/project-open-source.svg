@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">Open Source Lab placeholder app image</title>
-  <desc id="desc">Repository graph and contribution cards.</desc>
+  <title id="title">openSourceLab placeholder app image</title>
+  <desc id="desc">repository graph and contribution cards.</desc>
   <rect width="960" height="600" fill="#fffdf8"/>
   <rect x="76" y="80" width="808" height="440" rx="24" fill="#f7f5ef" stroke="#d8d0c2" stroke-width="3"/>
   <circle cx="242" cy="204" r="52" fill="#08a7a5"/>
