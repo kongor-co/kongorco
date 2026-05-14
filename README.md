@@ -22,6 +22,8 @@ The current design is a minimal personal developer portfolio with:
 - A typography-led homepage with compact project entries
 - Static HTML/CSS/JavaScript only, so it can be served directly by GitHub Pages
 
+The shared header is rendered from `assets/site.js`. Each HTML page contains only a `data-site-header` placeholder, so header edits should be made in one place.
+
 ## Local preview
 
 Open `index.html` in a browser, or serve the folder with any static server.
