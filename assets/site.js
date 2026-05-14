@@ -13,14 +13,14 @@ document.querySelectorAll("[data-site-header]").forEach((container) => {
   container.innerHTML = `
     <header class="site-header">
       <nav class="nav" aria-label="Primary navigation">
-        <a class="brand" href="${base}index.html"><img class="brand-logo" src="${base}assets/favicon.png" alt=""><span>Kongor Co</span></a>
+        <a class="brand" href="${base}index.html"><img class="brand-logo" src="${base}assets/favicon.png" alt=""><span>kongor</span></a>
         <div class="nav-links">
-          <a href="${base}index.html" data-nav>Home</a>
-          <a href="${base}projects.html" data-nav>Projects</a>
-          <a href="${base}about.html" data-nav>About</a>
-          <a href="${base}contact.html" data-nav>Contact</a>
+          <a href="${base}index.html" data-nav>home</a>
+          <a href="${base}projects.html" data-nav>projects</a>
+          <a href="${base}about.html" data-nav>about</a>
+          <a href="${base}contact.html" data-nav>contact</a>
         </div>
-        <button class="theme-toggle" type="button" data-theme-toggle>Dark</button>
+        <button class="theme-toggle" type="button" data-theme-toggle>dark</button>
       </nav>
     </header>
   `;
@@ -39,7 +39,7 @@ document.querySelectorAll("[data-nav]").forEach((link) => {
 
 document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
   const syncLabel = () => {
-    button.textContent = root.dataset.theme === "dark" ? "Light" : "Dark";
+    button.textContent = root.dataset.theme === "dark" ? "light" : "lark";
     button.setAttribute("aria-label", `Switch to ${button.textContent.toLowerCase()} mode`);
   };
 
