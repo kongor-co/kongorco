@@ -8,11 +8,31 @@ const initialTheme = requestedTheme === "dark" || requestedTheme === "light"
 
 root.dataset.theme = initialTheme;
 
-const currentPath = window.location.pathname.split("/").pop() || "index.html";
+document.querySelectorAll("[data-site-header]").forEach((container) => {
+  const base = container.dataset.base || "";
+  container.innerHTML = `
+    <header class="site-header">
+      <nav class="nav" aria-label="Primary navigation">
+        <a class="brand" href="${base}index.html"><img class="brand-logo" src="${base}assets/favicon.png" alt=""><span>Kongor Co</span></a>
+        <div class="nav-links">
+          <a href="${base}index.html" data-nav>Home</a>
+          <a href="${base}projects.html" data-nav>Projects</a>
+          <a href="${base}about.html" data-nav>About</a>
+          <a href="${base}contact.html" data-nav>Contact</a>
+        </div>
+        <button class="theme-toggle" type="button" data-theme-toggle>Dark</button>
+      </nav>
+    </header>
+  `;
+});
+
+const pathParts = window.location.pathname.split("/");
+const currentPath = pathParts.pop() || "index.html";
+const isProjectDetail = pathParts.some((part) => part === "projects");
 
 document.querySelectorAll("[data-nav]").forEach((link) => {
-  const href = link.getAttribute("href");
-  if (href === currentPath || (currentPath === "" && href === "index.html")) {
+  const href = link.getAttribute("href").split("/").pop();
+  if (href === currentPath || (isProjectDetail && href === "projects.html")) {
     link.setAttribute("aria-current", "page");
   }
 });
