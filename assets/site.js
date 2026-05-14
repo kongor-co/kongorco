@@ -39,8 +39,8 @@ document.querySelectorAll("[data-nav]").forEach((link) => {
 
 document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
   const syncLabel = () => {
-    button.textContent = root.dataset.theme === "dark" ? "light" : "dark";
-    button.setAttribute("aria-label", `switch to ${button.textContent.toLowerCase()} mode`);
+    button.textContent = root.dataset.theme === "dark" ? "light" : "lark";
+    button.setAttribute("aria-label", `Switch to ${button.textContent.toLowerCase()} mode`);
   };
 
   syncLabel();
