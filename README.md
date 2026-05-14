@@ -1,53 +1,53 @@
 # kongor.co
 
-Personal app and software development website for Kongor Co, built as a static site for GitHub Pages.
+personal app and software development website for kongor, built as a static site for github pages.
 
-## What is included
+## what is included
 
 - `index.html` homepage with project tiles
 - `projects.html` project index
 - `projects/` detail pages for placeholder app and software projects
-- `about.html` placeholder About, ideas, mission, and vision page
+- `about.html` placeholder about, ideas, mission, and vision page
 - `contact.html` placeholder contact/profile links page
-- `assets/` shared CSS, JavaScript, favicon logo, and placeholder project images
-- `CNAME` for the custom domain
-- `.nojekyll` so GitHub Pages serves the static files directly
+- `assets/` shared css, javascript, favicon logo, and placeholder project images
+- `cname` for the custom domain
+- `.nojekyll` so github pages serves the static files directly
 
-## Design notes
+## design notes
 
-The current design is a minimal personal developer portfolio with:
+the current design is a minimal personal developer portfolio with:
 
-- Light and dark modes using the header theme switch
-- The supplied logo at `assets/favicon.png` as the favicon and header mark
-- A typography-led homepage with compact project entries
-- Static HTML/CSS/JavaScript only, so it can be served directly by GitHub Pages
+- light and dark modes using the header theme switch
+- the supplied logo at `assets/favicon.png` as the favicon and header mark
+- a typography-led homepage with compact project entries
+- static html/css/javascript only, so it can be served directly by github pages
 
-The shared header is rendered from `assets/site.js`. Each HTML page contains only a `data-site-header` placeholder, so header edits should be made in one place.
+the shared header is rendered from `assets/site.js`. each html page contains only a `data-site-header` placeholder, so header edits should be made in one place.
 
-## Local preview
+## local preview
 
-Open `index.html` in a browser, or serve the folder with any static server.
+open `index.html` in a browser, or serve the folder with any static server.
 
 ```powershell
 python -m http.server 8080
 ```
 
-Then open `http://localhost:8080`.
+then open `http://localhost:8080`.
 
-## GitHub Pages setup
+## github pages setup
 
-This repository is structured for the GitHub Pages static publishing flow described in the GitHub Pages documentation:
+this repository is structured for the github pages static publishing flow described in the github pages documentation:
 
-1. Commit the site files to the publishing branch.
-2. In GitHub, open repository **Settings**.
-3. Go to **Pages**.
-4. Set the source to deploy from the branch and folder that contain `index.html`.
-5. Keep the `CNAME` file for the custom domain.
+1. commit the site files to the publishing branch.
+2. in github, open repository **settings**.
+3. go to **pages**.
+4. set the source to deploy from the branch and folder that contain `index.html`.
+5. keep the `cname` file for the custom domain.
 
-The current `CNAME` value is:
+the current `cname` value is:
 
 ```text
 www.kongor.co
 ```
 
-If you want the apex domain `kongor.co` to be primary instead, update `CNAME` and DNS records according to GitHub Pages custom domain guidance.
+if you want the apex domain `kongor.co` to be primary instead, update `cname` and dns records according to github pages custom domain guidance.

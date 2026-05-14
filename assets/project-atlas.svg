@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">Atlas Notes placeholder app image</title>
-  <desc id="desc">Linked knowledge notes interface.</desc>
+  <title id="title">atlasNotes placeholder app image</title>
+  <desc id="desc">linked knowledge notes interface.</desc>
   <rect width="960" height="600" fill="#f7f5ef"/>
   <rect x="88" y="74" width="784" height="452" rx="22" fill="#15191d"/>
   <rect x="132" y="116" width="196" height="368" rx="14" fill="#242a2f"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">WeatherLens placeholder app image</title>
-  <desc id="desc">Weather application map and forecast panels.</desc>
+  <title id="title">weatherLens placeholder app image</title>
+  <desc id="desc">weather application map and forecast panels.</desc>
   <rect width="960" height="600" fill="#15191d"/>
   <path d="M0 380 C160 288 278 456 430 340 C586 220 720 250 960 146 L960 600 L0 600 Z" fill="#08a7a5"/>
   <path d="M0 452 C164 402 308 512 476 430 C640 350 770 380 960 300 L960 600 L0 600 Z" fill="#60a56f"/>
