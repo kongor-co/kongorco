@@ -521,6 +521,13 @@ h3 {
     width: 340px;
   }
 
+  .page-hero,
+  .detail-layout,
+  .split {
+    max-width: 100%;
+    width: 340px;
+  }
+
   .hero-copy,
   .hero-mark {
     max-width: 100%;

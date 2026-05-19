@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">dwmTasks placeholder app image</title>
+  <desc id="desc">day week month task tracker preview.</desc>
+  <rect width="960" height="600" fill="#111213"/>
+  <rect x="90" y="70" width="780" height="460" rx="34" fill="#181a1b" stroke="#333536" stroke-width="4"/>
+  <rect x="132" y="118" width="696" height="72" rx="20" fill="#f4f0e7"/>
+  <rect x="170" y="144" width="150" height="20" rx="10" fill="#111213"/>
+  <circle cx="768" cy="154" r="18" fill="#dbb316"/>
+  <rect x="132" y="234" width="204" height="214" rx="22" fill="#f8f6ef"/>
+  <rect x="378" y="234" width="204" height="214" rx="22" fill="#f8f6ef"/>
+  <rect x="624" y="234" width="204" height="214" rx="22" fill="#f8f6ef"/>
+  <text x="178" y="292" fill="#111213" font-family="monospace" font-size="34" font-weight="700">day</text>
+  <text x="424" y="292" fill="#111213" font-family="monospace" font-size="34" font-weight="700">week</text>
+  <text x="670" y="292" fill="#111213" font-family="monospace" font-size="34" font-weight="700">month</text>
+  <rect x="178" y="334" width="112" height="14" rx="7" fill="#0d8f82"/>
+  <rect x="178" y="374" width="92" height="14" rx="7" fill="#d9d3c6"/>
+  <rect x="424" y="334" width="118" height="14" rx="7" fill="#0d8f82"/>
+  <rect x="424" y="374" width="78" height="14" rx="7" fill="#d9d3c6"/>
+  <rect x="670" y="334" width="106" height="14" rx="7" fill="#0d8f82"/>
+  <rect x="670" y="374" width="84" height="14" rx="7" fill="#d9d3c6"/>
+  <circle cx="278" cy="430" r="18" fill="#dbb316"/>
+  <circle cx="524" cy="430" r="18" fill="#dbb316"/>
+  <circle cx="770" cy="430" r="18" fill="#dbb316"/>
+</svg>
