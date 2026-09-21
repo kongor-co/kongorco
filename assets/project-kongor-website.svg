@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">kongor.co website preview</title>
+  <desc id="desc">A simplified portfolio page with a headline, project cards, and the kongor color palette.</desc>
+  <rect width="960" height="600" fill="#f8f6ef"/>
+  <rect x="76" y="60" width="808" height="480" rx="24" fill="#fffdf7" stroke="#d9d3c6" stroke-width="3"/>
+  <rect x="76" y="60" width="808" height="66" rx="24" fill="#f3efe4"/>
+  <rect x="76" y="104" width="808" height="22" fill="#f3efe4"/>
+  <rect x="112" y="80" width="26" height="26" rx="7" fill="#dbb316"/>
+  <rect x="153" y="86" width="105" height="14" rx="7" fill="#111111"/>
+  <rect x="645" y="87" width="48" height="11" rx="5" fill="#d9d3c6"/>
+  <rect x="710" y="87" width="55" height="11" rx="5" fill="#d9d3c6"/>
+  <rect x="782" y="87" width="60" height="11" rx="5" fill="#d9d3c6"/>
+  <rect x="115" y="163" width="480" height="40" rx="10" fill="#111111"/>
+  <rect x="115" y="216" width="392" height="23" rx="8" fill="#111111"/>
+  <rect x="115" y="258" width="430" height="12" rx="6" fill="#a6a096"/>
+  <rect x="115" y="282" width="345" height="12" rx="6" fill="#a6a096"/>
+  <rect x="115" y="329" width="112" height="36" rx="18" fill="#111111"/>
+  <rect x="243" y="329" width="112" height="36" rx="18" fill="none" stroke="#111111" stroke-width="3"/>
+  <rect x="617" y="162" width="210" height="206" rx="21" fill="#f8f6ef" stroke="#d9d3c6" stroke-width="3"/>
+  <circle cx="722" cy="265" r="63" fill="#dbb316"/>
+  <path d="M690 265h64M722 233v64" stroke="#111111" stroke-width="16" stroke-linecap="round"/>
+  <path d="M115 411h712" stroke="#d9d3c6" stroke-width="3"/>
+  <rect x="115" y="434" width="322" height="72" rx="11" fill="#f8f6ef" stroke="#d9d3c6" stroke-width="3"/>
+  <rect x="455" y="434" width="372" height="72" rx="11" fill="#f8f6ef" stroke="#d9d3c6" stroke-width="3"/>
+  <rect x="132" y="451" width="43" height="40" rx="8" fill="#0d8f82"/>
+  <rect x="189" y="454" width="177" height="12" rx="6" fill="#111111"/>
+  <rect x="189" y="477" width="225" height="8" rx="4" fill="#a6a096"/>
+  <rect x="472" y="451" width="43" height="40" rx="8" fill="#dbb316"/>
+  <rect x="529" y="454" width="177" height="12" rx="6" fill="#111111"/>
+  <rect x="529" y="477" width="225" height="8" rx="4" fill="#a6a096"/>
+</svg>
