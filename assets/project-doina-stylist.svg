@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Doina Stratulescu website preview</title>
+  <desc id="desc">A simplified dark editorial website layout with warm imagery and a large serif title.</desc>
+  <rect width="960" height="600" fill="#f4f0eb"/>
+  <rect x="56" y="40" width="848" height="520" rx="18" fill="#252b39"/>
+  <path d="M74 40h812a18 18 0 0 1 18 18v62H56V58a18 18 0 0 1 18-18Z" fill="#1b2230"/>
+  <text x="90" y="91" fill="#f4f0eb" font-family="Georgia, serif" font-size="40" font-style="italic">Doina S.</text>
+  <rect x="575" y="79" width="49" height="8" rx="4" fill="#b6c7ec"/>
+  <rect x="641" y="79" width="52" height="8" rx="4" fill="#d9dce3"/>
+  <rect x="710" y="79" width="52" height="8" rx="4" fill="#d9dce3"/>
+  <rect x="779" y="79" width="82" height="8" rx="4" fill="#d9dce3"/>
+  <rect x="56" y="120" width="435" height="440" fill="#252b39"/>
+  <text x="100" y="219" fill="#b6c7ec" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="4">PERSONAL STYLIST</text>
+  <text x="100" y="265" fill="#f4f0eb" font-family="Arial, sans-serif" font-size="18" letter-spacing="1">PERSONAL STYLIST AND DESIGNER</text>
+  <text x="100" y="353" fill="#f4f0eb" font-family="Georgia, serif" font-size="78">Doina</text>
+  <text x="100" y="423" fill="#f4f0eb" font-family="Georgia, serif" font-size="57">Stratulescu</text>
+  <text x="100" y="478" fill="#b6c7ec" font-family="Georgia, serif" font-size="23" font-style="italic">Style begins with you.</text>
+  <rect x="100" y="510" width="151" height="3" fill="#b6c7ec"/>
+  <rect x="491" y="120" width="413" height="440" fill="#bd7459"/>
+  <rect x="530" y="120" width="100" height="440" fill="#e7ded5"/>
+  <rect x="650" y="154" width="216" height="377" fill="#6e7375"/>
+  <rect x="667" y="169" width="182" height="345" fill="#92989b"/>
+  <path d="M690 171v343M724 171v343M758 171v343M792 171v343M826 171v343" stroke="#696e72" stroke-width="4"/>
+  <circle cx="749" cy="272" r="38" fill="#d7ad92"/>
+  <path d="M712 266c0-48 70-51 75 4-16-14-29-18-44-19-11 11-20 14-31 15Z" fill="#302a29"/>
+  <path d="M681 471c8-84 25-145 68-145 41 0 63 62 72 145Z" fill="#ded5ca"/>
+  <path d="M682 469c33-28 93-34 138 0v91H682Z" fill="#242528"/>
+  <path d="M720 331l28 101 29-101" fill="none" stroke="#6e6a66" stroke-width="5"/>
+</svg>
